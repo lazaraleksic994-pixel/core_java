@@ -13,6 +13,5 @@ public class UnaryDemo {
 
         boolean success= true;
         System.out.println(!success);
-
     }
 }
